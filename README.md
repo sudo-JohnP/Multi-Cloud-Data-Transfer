@@ -62,7 +62,7 @@ Showcase the ability to:
 
 ## 💬 Reflection
 
-This project took about an hour to complete. The biggest challenge was navigating the **GCP interface** for the first time, but it was rewarding to see a successful transfer between two major cloud platforms. I now feel more confident working in **multi-cloud environments** and understanding **cloud identity and access management (IAM)** across providers.
+Navigating two different cloud interfaces **(AWS and GCP)** and setting up **cross-cloud identity federation** gave me a much deeper understanding of how real-world **multi-cloud environments** work. It was rewarding to see the successful transfer and understand the security controls behind it. I now feel more confident working in **multi-cloud environments** and understanding **cloud identity and access management (IAM)** across providers.
 
 ---
 
