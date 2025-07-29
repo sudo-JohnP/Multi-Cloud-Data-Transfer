@@ -25,6 +25,8 @@ Showcase the ability to:
 
 ### 1. Set Up AWS S3 Bucket
 - Created and uploaded sample files to an S3 bucket to serve as source data.
+- <img width="1866" height="716" alt="File_Upload_S3" src="https://github.com/user-attachments/assets/6a24ed66-32e9-4dd8-b44b-3941f0b17a09" />
+
 
 ### 2. Set Up Google Cloud Platform
 - Initialized a GCP project using free-tier credits.
