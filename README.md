@@ -36,6 +36,7 @@ Showcase the ability to:
 - Initialized a GCP project using free-tier credits.
 - Created a GCP bucket with appropriate region and storage class settings.
 - <img width="1512" height="828" alt="GCP_Backup_Bucket" src="https://github.com/user-attachments/assets/3a88652c-29fc-419e-9964-96aae42f879c" />
+- (Screenshot Taken after the data transfer was complete) 
 
 
 ### 3. IAM Identity Federation
