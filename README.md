@@ -24,7 +24,7 @@ Showcase the ability to:
 ## 📦 Project Steps
 
 **Diagram Overview**
-<img width="867" height="615" alt="Multi_Cloud_Data_Transfer_Graphic" src="https://github.com/user-attachments/assets/b8ef887b-ff2c-4b77-9309-aa74398e0760" />
+- <img width="867" height="615" alt="Multi_Cloud_Data_Transfer_Graphic" src="https://github.com/user-attachments/assets/b8ef887b-ff2c-4b77-9309-aa74398e0760" />
 
 
 ### 1. Set Up AWS S3 Bucket
