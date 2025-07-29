@@ -23,6 +23,10 @@ Showcase the ability to:
 
 ## 📦 Project Steps
 
+**Diagram Overview**
+<img width="867" height="615" alt="Multi_Cloud_Data_Transfer_Graphic" src="https://github.com/user-attachments/assets/b8ef887b-ff2c-4b77-9309-aa74398e0760" />
+
+
 ### 1. Set Up AWS S3 Bucket
 - Created and uploaded sample files to an S3 bucket to serve as source data.
 - <img width="1866" height="716" alt="File_Upload_S3" src="https://github.com/user-attachments/assets/6a24ed66-32e9-4dd8-b44b-3941f0b17a09" />
@@ -31,14 +35,19 @@ Showcase the ability to:
 ### 2. Set Up Google Cloud Platform
 - Initialized a GCP project using free-tier credits.
 - Created a GCP bucket with appropriate region and storage class settings.
+- <img width="1512" height="828" alt="GCP_Backup_Bucket" src="https://github.com/user-attachments/assets/3a88652c-29fc-419e-9964-96aae42f879c" />
+
 
 ### 3. IAM Identity Federation
 - Created a custom **IAM role** in AWS with a trust policy for GCP access.
 - Granted GCP temporary read access to the S3 bucket using a **subject ID**.
+- <img width="1872" height="806" alt="AWS_Trust_Policy" src="https://github.com/user-attachments/assets/89a5a73a-4034-4831-8062-81d6297130f1" />
+
 
 ### 4. Configure Storage Transfer
 - Used **GCP's Storage Transfer Service** to create a **batch job**.
 - Verified success by checking for transferred files in the GCP bucket.
+- <img width="707" height="765" alt="GCP_Transfer_Setup" src="https://github.com/user-attachments/assets/11cd9ed9-bee7-4aa1-9330-1bf88ea59ee7" />
 
 ---
 
