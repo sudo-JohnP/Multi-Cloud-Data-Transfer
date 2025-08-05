@@ -2,7 +2,7 @@
 
 This project demonstrates how to securely transfer data between **AWS S3** and **Google Cloud Storage (GCS)** using identity federation and GCP’s **Storage Transfer Service**. It was completed as part of a hands-on cloud challenge on [NextWork](https://learn.nextwork.org/).
 
-## 🚀 Objective
+## Objective
 
 Showcase the ability to:
 - Set up and configure cloud storage services in **AWS** and **GCP**
@@ -11,7 +11,7 @@ Showcase the ability to:
 
 ---
 
-## 🧰 Tools & Services Used
+## Tools & Services Used
 
 | AWS                        | GCP                                  |
 |---------------------------|--------------------------------------|
@@ -21,7 +21,7 @@ Showcase the ability to:
 
 ---
 
-## 📦 Project Steps
+## Project Steps
 
 ## **Diagram Overview**
 - <img width="867" height="615" alt="Multi_Cloud_Data_Transfer_Graphic" src="https://github.com/user-attachments/assets/b8ef887b-ff2c-4b77-9309-aa74398e0760" />
@@ -52,7 +52,7 @@ Showcase the ability to:
 
 ---
 
-## ✅ Results
+## Results
 
 ✔️ Successfully transferred files from AWS to GCP  
 ✔️ Used IAM roles and identity federation for secure, temporary access  
@@ -60,13 +60,13 @@ Showcase the ability to:
 
 ---
 
-## 💬 Reflection
+## Reflection
 
 Navigating two different cloud interfaces **(AWS and GCP)** and setting up **cross-cloud identity federation** gave me a much deeper understanding of how real-world **multi-cloud environments** work. It was rewarding to see the successful transfer and understand the security controls behind it. I now feel more confident working in **multi-cloud environments** and understanding **cloud identity and access management (IAM)** across providers.
 
 ---
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 - Multi-Cloud Infrastructure
 - AWS S3 & IAM
