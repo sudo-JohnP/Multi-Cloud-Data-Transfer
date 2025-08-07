@@ -1,4 +1,4 @@
-# 🌐 Multi-Cloud Data Transfer with AWS and GCP
+# Multi-Cloud Data Transfer with AWS and GCP
 
 This project demonstrates how to securely transfer data between **AWS S3** and **Google Cloud Storage (GCS)** using identity federation and GCP’s **Storage Transfer Service**. It was completed as part of a hands-on cloud challenge on [NextWork](https://learn.nextwork.org/).
 
